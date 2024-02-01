@@ -1,0 +1,11 @@
+{
+  "name": "puppetlabs-resource_api",
+  "version": "1.9.0",
+  "author": "puppetlabs",
+  "license": "Apache-2.0",
+  "summary": "Implementation of the Resource API specification",
+  "source": "https://github.com/puppetlabs/puppetlabs-resource_api",
+  "dependencies": [
+
+  ]
+}
